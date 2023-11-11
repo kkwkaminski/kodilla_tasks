@@ -4,3 +4,5 @@ def ispalindrome(tekst):
     # Porównujemy tekst z odwróconym tekstem
     return tekst == tekst[::-1]
 
+print(ispalindrome("potop"))  # True
+print(ispalindrome("Python"))  # False

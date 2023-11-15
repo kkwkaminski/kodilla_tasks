@@ -21,5 +21,5 @@ new_name = "Luke"
 with open("names.txt", 'a') as write_file:
     write_file.write(new_name)
 
-    # dane z laptopa test git
+    # dane z laptopa test git 2
     # dane z PC 2
